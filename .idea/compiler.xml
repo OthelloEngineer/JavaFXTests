@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaFX" />
+        <module name="SwitchScenes" />
+        <module name="SettingAStage" />
+        <module name="SceneandDrawings" />
+        <module name="CSSStyling" />
+        <module name="EventHandling" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CSSStyling" target="17" />
+      <module name="demo" target="17" />
+      <module name="EventHandling" target="17" />
+      <module name="JavaFX" target="17" />
+      <module name="SceneandDrawings" target="17" />
+      <module name="SceneBuilder" target="17" />
+      <module name="SettingAStage" target="17" />
+      <module name="SwitchScenes" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

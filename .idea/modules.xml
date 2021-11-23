@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSSStyling/CSSStyling.iml" filepath="$PROJECT_DIR$/CSSStyling/CSSStyling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventHandling/EventHandling.iml" filepath="$PROJECT_DIR$/EventHandling/EventHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX.iml" filepath="$PROJECT_DIR$/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SceneandDrawings/SceneandDrawings.iml" filepath="$PROJECT_DIR$/SceneandDrawings/SceneandDrawings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SettingAStage/SettingAStage.iml" filepath="$PROJECT_DIR$/SettingAStage/SettingAStage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchScenes/SwitchScenes.iml" filepath="$PROJECT_DIR$/SwitchScenes/SwitchScenes.iml" />
+    </modules>
+  </component>
+</project>

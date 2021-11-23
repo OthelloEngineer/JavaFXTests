@@ -1,0 +1,16 @@
+.root{ /* Apply CSS-styling to a group*/
+    -fx-background-color: #111111;
+}
+
+
+.label{ /* Apply CSS-styling to a whole class*/
+    -fx-font-size: 20;
+    -fx-font-family: "Lucida Console";
+    -fx-text-fill: "white";
+    -fx-alignment:center;
+}
+
+#titleLabel{ /* Apply CSS-styling to a specific object*/
+    -fx-font-size: 40;
+
+}
